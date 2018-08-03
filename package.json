@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Get city temperature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzreed25/weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Tyler Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzreed25/weather-app/issues"
+  },
+  "homepage": "https://github.com/tzreed25/weather-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
