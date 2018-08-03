@@ -32,5 +32,5 @@ app.post('/', function(req, res) {
 });
 
 app.listen(8080, function () {
-  console.log('Weather app listening on port 3000');
+  console.log('Weather app listening on port 8080');
 });
